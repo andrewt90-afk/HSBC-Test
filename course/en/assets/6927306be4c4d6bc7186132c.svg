@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Artwork_EXPORT_THIS_LAYER_ONLY" data-name="Artwork EXPORT THIS LAYER ONLY" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-2 {
+        fill: #db0011;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-2" points="86 171.96 86 16 121.97 28.72 121.97 80.14 106 80 106 172.04"/>
+  <polygon class="cls-2" points="122 84 110 84 110 172 122 172.04 122 84"/>
+  <path class="cls-1" d="m146,172v-92h-40v92h-20V44.93l-42,18.49v108.58H16v4h160v-4h-30ZM48,66.03l34-14.97v26.53l-18.05,7.3v4.31l18.05-7.3v7.69l-18.05,7.3v4.31l18.05-7.3v7.69l-18.05,7.3v4.31l18.05-7.3v7.69l-18.05,7.3v4.31l18.05-7.3v7.69l-18.05,7.3v4.31l18.05-7.3v7.69l-18.05,7.3v4.31l18.05-7.3v29.9h-34v-105.78Zm62,17.97h32v29.61l-14-5.63v4.13l14,5.8v9.69l-14-5.63v4.13l14,5.8v9.69l-14-5.63v4.13l14,5.8v9.7l-14-5.63v4.14l14,5.8v12.06h-32v-88Z"/>
+</svg>

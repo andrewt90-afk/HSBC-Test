@@ -1,0 +1,3777 @@
+[
+  {
+    "_id": "6996d4d2d8e2977cd4df135d",
+    "_type": "article",
+    "title": "Let's all agree, brand matters",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds article-no-padding background-colour8 background-image31 page-intro expand-collapse-background is-expanded",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1385",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "<h2>Resources</h2><p>Additional information about the topics covered in this module can be found at the following links.</p><p><a class=\"btn__action btn-text element-color-control customlink\" href=\"#/id/6996d4d2d8e2977cd4df1358\">Return to module</a></p>",
+    "_classes": "background-colour9 resources-layout resources1",
+    "_parentId": "6996d4d2d8e2977cd4df135a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df135f",
+    "_type": "article",
+    "title": "When you think of the word brand, what comes to mind?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour12 background-image22 brand-checkboxes",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1361",
+    "_type": "article",
+    "title": "Why do brands matter?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds background-colour12",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1363",
+    "_type": "article",
+    "title": "Born international",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds background-colour12 article-no-padding",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df136d",
+    "_type": "article",
+    "title": "Quick quiz",
+    "displayTitle": "",
+    "body": "<h2>Quick Quiz</h2><p>How much can you remember about our brand history? Let's check with a quick quiz.</p><p><strong>Select the correct answer for each question, then select Submit.</strong></p>",
+    "_classes": "no-article-backgrounds background-colour8 mcq-layout no-element-backgrounds js-assessment-disable-button-until-all-answered",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "Brand history",
+      "_attempts": 1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 0,
+      "_correctToPass": 0,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "0",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": true,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": true,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "<h2>Thanks for submitting your answers</h2><p>The <strong>Hongkong and Shanghai Banking Corporation</strong> (HSBC) was established in <strong>Hong Kong</strong> in <strong>1865</strong>. We recently celebrated our <strong>160th anniversary</strong>.</p><p>When learning about our brand history, which themes did you identify? Did you spot the role played by being international, creating opportunities and our logo?</p>",
+        "fail": {
+          "noAttemptsRemaining": "<h2>Thanks for submitting your answers</h2><p>The <strong>Hongkong and Shanghai Banking Corporation</strong> (HSBC) was established in <strong>Hong Kong</strong> in <strong>1865</strong>. We recently celebrated our <strong>160th anniversary</strong>.</p><p>When learning about our brand history, which themes did you identify? Did you spot the role played by being international, creating opportunities and our logo?</p>",
+          "attemptsRemaining": "<h2>Thanks for submitting your answers</h2><p>The <strong>Hongkong and Shanghai Banking Corporation</strong> (HSBC) was established in <strong>Hong Kong</strong> in <strong>1865</strong>. We recently celebrated our <strong>160th anniversary</strong>.</p><p>When learning about our brand history, which themes did you identify? Did you spot the role played by being international, creating opportunities and our logo?</p>"
+        }
+      }
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df136f",
+    "_type": "article",
+    "title": "Resource prompt",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1 background-colour12 learn-more learn-more1",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 25,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df137d",
+    "_type": "article",
+    "title": "Your thoughts on the HSBC brand",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " no-article-backgrounds no-element-backgrounds background-colour7 article-no-padding word-cloud on-dark",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "is-in-viewport",
+      "_percentInviewVertical": 20,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1387",
+    "_type": "article",
+    "title": "How your colleagues perceive HSBC",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour11 no-element-backgrounds no-article-backgrounds custom-brightcove on-dark accordion-transcript",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1383",
+    "_type": "article",
+    "title": "Resource prompt",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour8 learn-more no-bg-resource protecting-our-brand",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 25,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1365",
+    "_type": "article",
+    "title": "Opening up a world of opportunity",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour8 article-no-padding hex-and-graphic hex-and-graphic---double-space-grid hex-and-graphic-anims--shift-image-pos hex-and-graphic-anims--slide-image hex-and-graphic-anims--shift-text-pos hex-and-graphic-anims--wipe-text",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1379",
+    "_type": "article",
+    "title": "The Hexagon",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds background-colour12 article-no-padding",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1389",
+    "_type": "article",
+    "title": "Our creative direction",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour7 no-element-backgrounds no-article-backgrounds custom-brightcove on-dark accordion-transcript",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1369",
+    "_type": "article",
+    "title": "Quick quiz",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour11 background-image30  article-no-padding on-dark sentance-builder",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1375",
+    "_type": "article",
+    "title": "Resource prompt",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image26 background-colour12 learn-more",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 25,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df138d",
+    "_type": "article",
+    "title": "What is accessibility?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds background-colour12 article-no-padding common-expanded-header-component-styles accordion-image-block-layout",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df137f",
+    "_type": "article",
+    "title": "Resource prompt",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image32 background-colour12 learn-more learn-more1",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 25,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1367",
+    "_type": "article",
+    "title": "What is Tone of Voice (ToV)?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds background-colour12 article-no-padding common-expanded-header-component-styles accordion-image-block-layout",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1377",
+    "_type": "article",
+    "title": "Quick quiz",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds background-colour8 custom-yn no-element-backgrounds",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": true,
+    "_isAvailable": false,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1371",
+    "_type": "article",
+    "title": "Resource prompt",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image33 background-colour12 learn-more",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 25,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1381",
+    "_type": "article",
+    "title": "Our brand. Everyone's responsibility.",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour12 learn-more no-bg-resource inner-resource-header protecting-our-brand",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df138b",
+    "_type": "article",
+    "title": "Governance at HSBC",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour8 article-no-padding hex-and-graphic hex-and-graphic---double-space-grid hex-and-graphic-anims--shift-image-pos hex-and-graphic-anims--slide-image hex-and-graphic-anims--shift-text-pos hex-and-graphic-anims--wipe-text",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df1373",
+    "_type": "article",
+    "title": "Resource prompt",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image23 background-colour12 learn-more",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "is-animated",
+      "_percentInviewVertical": 25,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df137b",
+    "_type": "article",
+    "title": "Resources",
+    "displayTitle": "",
+    "body": "<h2>Resources</h2><p>Additional information about the topics covered in this module can be found at the following links.</p>",
+    "_classes": "background-colour9 resources-layout resources1",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": true,
+    "_isAvailable": false,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6996d4d2d8e2977cd4df136b",
+    "_type": "article",
+    "title": "Wrap-up",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds article-no-padding background-colour8 background-image29 page-outro expand-collapse-background",
+    "_parentId": "6996d4d2d8e2977cd4df1358",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_interactiveVideo": {
+      "_isEnabled": false,
+      "_useClosedCaptions": false,
+      "_media": {
+        "external": {
+          "source": "",
+          "type": "youtube",
+          "_brightcove": {
+            "_brightcovePlayer": {
+              "videoId": "",
+              "account": "",
+              "player": "default",
+              "canPlayLocal": false
+            },
+            "_socialSharing": [],
+            "_canCopyLinkToVideo": false,
+            "_downloadOption": "Disabled"
+          },
+          "iframeWidth": "100%",
+          "iframeHeight": "500px"
+        },
+        "_cc": [],
+        "internal": {
+          "source": "",
+          "type": "",
+          "poster": ""
+        }
+      },
+      "interactions": {
+        "label": [],
+        "image": [],
+        "bookmark": {
+          "_isEnabled": false,
+          "_position": {
+            "top": 0,
+            "left": 0
+          },
+          "display": "collapsed",
+          "_items": []
+        }
+      }
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessmentSingleSubmit": {
+      "_isEnabled": false,
+      "instructionText": "Click 'Submit' if you are happy with your answers above.",
+      "unlimitedAttemptsRemaining": "Unlimited attempts remaining",
+      "noAttemptsRemaining": "No attempts remaining",
+      "submissionError": "Please answer all the above questions before clicking 'Submit'",
+      "_shouldDisplayAttempts": false,
+      "resetCorrectAnswersOnReset": false,
+      "_canShowFeedback": false,
+      "questionComponentFeedbackType": "generic",
+      "_feedback": {
+        "correctness": "",
+        "pass": "",
+        "fail": {
+          "noAttemptsRemaining": "",
+          "attemptsRemaining": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]
